@@ -1,4 +1,5 @@
-📊 Online Sales Data Analysis
+📊 **Online Sales Data Analysis**
+
 This project analyzes an e-commerce transaction dataset using SQL in MySQL Workbench. It extracts insights like revenue trends, top-performing products, regional sales, and payment method usage.
 
 📁 Dataset Description
